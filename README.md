@@ -18,7 +18,7 @@
 - Sketch Arduino IDE
 
 ##### Architecture Design
-![Block Diagram](Pictures/BLOCK.JPG)
+![Block Diagram](pictures/block.png)
 
 ##### Working
 - Firstly, Arduino Board receives input from the sensors (LDR,) and the battery
