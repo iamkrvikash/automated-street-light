@@ -5,6 +5,9 @@
 
 ###### Smart Streetlight is an automated system which automates the street. The main aim of Smart Streetlight is to reduce the power consumption when there are no vehicle movements on the road.
 
+##### Documentation :
+This [documentation ](https://github.com/iamkrvikash/street-light/blob/master/Smart_Streetlight_Control_System.pdf) provides detailed information of the Project. 
+
 ###### Hardware Used :
 - Arduino Nano
 - LDR
@@ -27,6 +30,6 @@ connected to the board.
 - If object is detected, the LED get ON, else it is in OFF mode.
 
 ##### Code
-[Arduino Code ](https://github.com/iamkrvikash/street-light/blob/master/arduino_code.ino "Arduino Code ")
+This is [Arduino Code](https://github.com/iamkrvikash/street-light/blob/master/arduino_code.ino "Arduino Code ") to perform the task.
 
 ------------
