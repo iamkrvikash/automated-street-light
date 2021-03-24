@@ -34,7 +34,7 @@ This is [Arduino Code](https://github.com/iamkrvikash/street-light/blob/master/a
 
 #### Team Members
  - Arpita Sinha     [LinkedIn Profile](https://www.linkedin.com/in/arpita-sinha-3582151b4/)
- - Siddharth Nanada [LinkedIn Profile](https://www.linkedin.com/in/siddharth-nanda-2b65a0142/)
+ - Siddharth Nanda [LinkedIn Profile](https://www.linkedin.com/in/siddharth-nanda-2b65a0142/)
  - Vikash Kumar     [LinkedIn Profile](https://www.linkedin.com/in/iamkrvikash/)
 
 ------------
