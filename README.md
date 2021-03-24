@@ -32,4 +32,9 @@ connected to the board.
 ##### Code
 This is [Arduino Code](https://github.com/iamkrvikash/street-light/blob/master/arduino_code.ino "Arduino Code ") to perform the task.
 
+#### Team Members
+ - Arpita Sinha     [LinkedIn Profile](https://www.linkedin.com/in/arpita-sinha-3582151b4/)
+ - Siddharth Nanada [LinkedIn Profile](https://www.linkedin.com/in/siddharth-nanda-2b65a0142/)
+ - Vikash Kumar     [LinkedIn Profile](https://www.linkedin.com/in/iamkrvikash/)
+
 ------------
